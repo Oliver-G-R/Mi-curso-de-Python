@@ -40,6 +40,12 @@ userNameSplit = userName.split("_")
 # Cantidad de caracteres de una cadena
 userLength = len(userName)
 
+# Evalua si al final de una cadena esta la candea o caracter que se le paso
+userName.endswith("2")
+
+# Evalua si al inicio de una cadena esta la candea o caracter que se le paso
+userName.startswith("o")
+
 userNameIndex = userName.index("o")
 
 # Forma para imprimir en pantalla una variable dentro de una cadena
