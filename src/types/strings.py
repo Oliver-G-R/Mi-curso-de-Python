@@ -41,4 +41,6 @@ userNameSplit = userName.split("_")
 userLength = len(userName)
 
 userNameIndex = userName.index("o")
-print(userNameIndex)
+
+# Forma para imprimir en pantalla una variable dentro de una cadena
+print(f"My user name is {userName}")

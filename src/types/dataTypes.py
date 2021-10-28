@@ -60,5 +60,17 @@ userTuple = (1, 2, 3, 4, 5)
 """
 userDict = {"name": "olivero83_root", "age": 30, "height": 1.75, "userIsActiv": False}
 
-# De esta manera podemos imprimir todos los datos
+# tipo set
+"""
+    Los set son un tipo de dato que se puede crear con una serie de elementos,
+    pero en este caso no tienen un orden (sin indice ni llave).
+"""
+passwords = {
+    "admin123",
+    "root123",
+    "password123",
+}
+
+
+# De esta manera podemos imprimir el dato con su llave especifica
 print(userDict["name"])
