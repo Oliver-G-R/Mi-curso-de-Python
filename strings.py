@@ -11,7 +11,7 @@ userNameL = userName.lower()
 userNameC = userName.capitalize()
 
 # busca la posicion de una cadena y arroja el numero de la posicion
-'''
+"""
     Se empieza a contar desde el 0
     oliver_834_2 -> 11 indices
     o -> 0
@@ -25,11 +25,11 @@ userNameC = userName.capitalize()
     3 -> 8
     4 -> 9
     2 -> 10
-'''
+"""
 userNameFind = userName.find("_")
 
 # Remplaza todas las apariciones de una cadena en otra
-userNameR = userName.replace("_", "@") 
+userNameR = userName.replace("_", "@")
 
 # Cuenta el numero de caracteres de una cadena
 userNameCount = userName.count("_")
