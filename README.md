@@ -3,7 +3,7 @@
 <img style="width:30%;" src="./img/python.svg" alt="">
 
 ## Instalación de Python
-Visista el siguiente enlace para instalar python:
+Visita el siguiente enlace para instalar python:
 [Python](https://www.python.org/downloads/)  
 
 ## Ejecuta los archivos con   
@@ -40,6 +40,10 @@ empezar a aprender a programar en python de forma ordenada.
 
 **src/enter**  
 */enter.py*  
+
+**src/OOP**  
+*/index.py*
+
 
 ## ¿Se sienete preparado para el siguiente paso?  
 Puede revisar la carpeta **src/exercises** para ver los ejercicios que estare subiendo  
