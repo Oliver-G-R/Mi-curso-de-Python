@@ -39,14 +39,18 @@ empezar a aprender a programar en python de forma ordenada.
 */lambda.py*  
 
 **src/enter**  
-*/enter.py*  
+*/enter.py*    
+
+**src/errors**  
+*/index.py*    
+*/generate.py*  
 
 **src/imports**  
 */index.py*  
 
 **src/OOP**  
-*/index.py*
-
+*/index.py*  
+*/decorators.py*  
 
 ## ¿Se sienete preparado para el siguiente paso?  
 Puede revisar la carpeta **src/exercises** para ver los ejercicios que estare subiendo  
